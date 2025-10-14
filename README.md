@@ -9,5 +9,6 @@ Python version 3 or higher.
 - model_2.py contains the code used to run Model 2, which describes competition for survival and proliferation during sequential rounds of expansion.
 - model_3.py contains the code used to run Model 3, which describes competition for survival and proliferation in a fixed-size tumour.
 - compute-summary-statistics.ipynb contains the notebook used to extract summary statistics from simulated tumours.
+- modelling-paper-analysis.ipynb is the Jupyter notebook containing post-processing analyses and figure code.
 
 
