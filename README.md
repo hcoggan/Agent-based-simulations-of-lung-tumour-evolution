@@ -10,5 +10,6 @@ Python version 3 or higher.
 - model_3.py contains the code used to run Model 3, which describes competition for survival and proliferation in a fixed-size tumour.
 - compute-summary-statistics.ipynb contains the notebook used to extract summary statistics from simulated tumours.
 - modelling-paper-analysis.ipynb is the Jupyter notebook containing post-processing analyses and figure code.
+- visualise-clonal-distribution.ipynb creates the clonal distribution figure.
 
 
